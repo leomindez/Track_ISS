@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/share_content"
+        android:icon="@drawable/social_share"
+        android:orderInCategory="1"
+        android:showAsAction="always|withText"
+        android:title="@string/compartir"/>
+
+</menu>

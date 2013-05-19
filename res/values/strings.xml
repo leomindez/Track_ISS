@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Track ISS</string>
+    <string name="action_settings">Live Stream</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="proximas_vistas">Próximas Vistas</string>
+    <string name="title_duration">Duración:</string>
+    <string name="date">Fecha: </string>
+    <string name="title_activity_activity__inicio">Activity_Inicio</string>
+    <string name="donde_esta">¿Donde esta?</string>
+    <string name="title_activity_donde_esta">Tiempo Real</string>
+    <string name="quien_esta">¿Quién esta ahí?</string>
+    <string name="title_activity_quien_esta_ahi">¿Quién esta ahí?</string>
+    <string name="title_activity_live_stream">Live Stream</string>
+    <string name="austronautas">Astronautas</string>
+    <string name="title_activity_informacion_astronauta">InformacionAstronautaActivity</string>
+    <string name="compartir">Compartir</string>
+    <string name="refresh">Actualizar</string>
+    <string name="buscar_vistas">Buscar</string>
+    <string name="share_date">Compartir</string>
+    <string name="save_date">Recordar fecha</string>
+
+</resources>

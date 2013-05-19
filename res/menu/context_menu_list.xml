@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/share_date"
+        android:title="@string/share_date"/>
+    <item
+        android:id="@+id/save_date"
+        android:title="@string/save_date"/>
+
+</menu>

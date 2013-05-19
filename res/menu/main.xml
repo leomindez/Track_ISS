@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/buscar_vistas"
+        android:icon="@drawable/action_search"
+        android:orderInCategory="1"
+        android:showAsAction="always|withText"
+        android:title="@string/buscar_vistas"/>
+
+</menu>

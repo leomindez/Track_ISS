@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/camara_nave"
+        android:icon="@drawable/device_access_video"
+        android:orderInCategory="1"
+        android:showAsAction="always|withText"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/navigation_refresh"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:title="@string/refresh"/>
+
+</menu>

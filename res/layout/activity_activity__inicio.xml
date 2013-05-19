@@ -1,0 +1,34 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity_Inicio" >
+
+    <Button
+        android:id="@+id/proximas_vistas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="92dp"
+        android:text="@string/proximas_vistas" />
+
+    <Button
+        android:id="@+id/donde_esta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/proximas_vistas"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:text="@string/donde_esta" />
+
+    <Button
+        android:id="@+id/quien_esta_ahi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/donde_esta"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:text="@string/quien_esta" />
+
+</RelativeLayout>
